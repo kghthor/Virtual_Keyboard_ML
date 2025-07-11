@@ -1,7 +1,4 @@
-markdown
 # 👆 AI Virtual Keyboard with Hand Tracking
-
-
 
 An innovative virtual keyboard that uses computer vision to detect finger movements and simulate keyboard inputs. Control your computer hands-free using just your webcam!
 
@@ -25,8 +22,8 @@ An innovative virtual keyboard that uses computer vision to detect finger moveme
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-virtual-keyboard.git
-   cd ai-virtual-keyboard
+   git clone https://github.com/kghthor/Virtual_Keyboard_ML.git
+   cd Virtual_Keyboard_ML
 Install dependencies:
 
 bash
