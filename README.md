@@ -26,13 +26,11 @@ An innovative virtual keyboard that uses computer vision to detect finger moveme
    cd Virtual_Keyboard_ML
 Install dependencies:
 
-bash
 pip install -r requirements.txt
-(Create requirements.txt with: opencv-python, mediapipe, pyautogui, numpy)
+
 
 Run the application:
 
-bash
 python virtual_keyboard.py
 🎮 How to Use
 Position your hands in view of the webcam
@@ -71,7 +69,7 @@ Calculating distance between index finger (Landmark 8) and thumb (Landmark 4)
 
 Registering key presses only when distance < threshold (0.03)
 
-Applying Gaussian blur to all non-essential areas
+Applying Gaussian blur to all non-essential areas (Not Included in this project Source code)
 
 Simulating keyboard presses with PyAutoGUI
 
